@@ -1,0 +1,3 @@
+As part of my Monash Engineering final year project, I have constructed a dataset of annotated images of rocks in practical simulations of the lunar polar region's low angle and low light conditions for the purpose of training and testing object detection models. 
+
+Datasets are provided in YOLOv8 format and variations of the dataset are available in both colour, and binary infrared images. Images were taken using an Intel RealSense D435 Depth Camera.
